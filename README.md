@@ -1,5 +1,5 @@
 # INTERNET-CAFE-MANAGEMENT-SYSTEM
-Developing an application to replicate Internet Café management system
+Developed an application to replicate Internet Café management system
 ## Introduction: 
 Main purpose of the code is to provide admins and 
 users with correct timing and billing information. 
